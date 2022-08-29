@@ -93,6 +93,8 @@ Get expert help with scaling video delivery by leveraging Microsoft's trusted vi
 
 The following SDN/eCDN solutions are pre-integrated and can be set up to be used with Stream.
 
+- **Microsoft eCDN** Microsoft native eCDN provides effective and easy-to-use distribution without any additional installations. [Learn more](aka.ms/ecdn)
+- 
 - **Hive Streaming** provides a simple and powerful solution for live and on-demand enterprise video distribution. Hive is a software-based solution that requires no additional hardware or bandwidth and provides a secure way to enable thousands of simultaneous video viewers without impact to your network. For customers looking to understand the impact video is having on their network prior to purchasing an SDN/eCDN solution, Hive Streaming also provides a browser-based analytics solution for Microsoft customers. [Learn more](https://www.hivestreaming.com/partners/integration-partners/microsoft/).
 
 - **Kollective** is a cloud-based, smart-peering distribution platform that leverages your existing network infrastructure to deliver content in many forms (live streaming video, on-demand video, software updates, security patches, and more) faster, more reliably, and with less bandwidth. Our secure platform is trusted by the world's largest financial institutions and with no additional hardware, setup and maintenance are easy. [Learn more](https://kollective.com/microsoft-pilot/).
